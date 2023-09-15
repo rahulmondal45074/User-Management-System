@@ -18,7 +18,7 @@ User Mamagement System
 
 ## Data Structure used in project
 
-.ArrayList is used 
+.ArrayList is used
 ## Project Summry
 
 .This is a user management system use for manage data of user .
